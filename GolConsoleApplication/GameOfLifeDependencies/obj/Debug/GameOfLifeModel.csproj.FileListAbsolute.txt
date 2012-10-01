@@ -1,5 +1,0 @@
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GameOfLifeModel\bin\Debug\GameOfLifeModel.dll
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GameOfLifeModel\bin\Debug\GameOfLifeModel.pdb
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GameOfLifeModel\obj\Debug\ResolveAssemblyReference.cache
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GameOfLifeModel\obj\Debug\GameOfLifeModel.dll
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GameOfLifeModel\obj\Debug\GameOfLifeModel.pdb

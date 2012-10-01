@@ -1,7 +1,0 @@
-D:\Personal\Dot net in Depth\Coding Excercise\GOL\GolConsoleApplication\GolConsoleApplication\bin\Debug\GolConsoleApplication.exe
-D:\Personal\Dot net in Depth\Coding Excercise\GOL\GolConsoleApplication\GolConsoleApplication\bin\Debug\GolConsoleApplication.pdb
-D:\Personal\Dot net in Depth\Coding Excercise\GOL\GolConsoleApplication\GolConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Personal\Dot net in Depth\Coding Excercise\GOL\GolConsoleApplication\GolConsoleApplication\obj\x86\Debug\GolConsoleApplication.exe
-D:\Personal\Dot net in Depth\Coding Excercise\GOL\GolConsoleApplication\GolConsoleApplication\obj\x86\Debug\GolConsoleApplication.pdb
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GolConsoleApplication\obj\x86\Debug\GolConsoleApplication.exe
-D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\GolConsoleApplication\obj\x86\Debug\GolConsoleApplication.pdb
