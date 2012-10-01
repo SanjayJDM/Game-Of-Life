@@ -1,0 +1,5 @@
+D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\UILibrary\bin\Debug\UILibrary.dll
+D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\UILibrary\bin\Debug\UILibrary.pdb
+D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\UILibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\UILibrary\obj\Debug\UILibrary.dll
+D:\Personal\Dot net in Depth\Coding Excercise\GameOfLife\GolConsoleApplication\UILibrary\obj\Debug\UILibrary.pdb
